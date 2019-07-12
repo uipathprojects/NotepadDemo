@@ -14,7 +14,7 @@ steps:
   inputs:
     packageAction: 'pack'
     versioningType: 'autoversion'
-    platformVersion: '19.5.0'
+    platformVersion: '18.4.2'
     uninstallOption: 'ifdifferent'
 
 - task: PublishBuildArtifacts@1
